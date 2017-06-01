@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Google Books</string>
+    <string name="api_key">AIzaSyDWthZ5lcuPeZHBgzQS6rE5WGp7WF_wZqY</string>
+    <string name="google_books_base_url">https://www.googleapis.com/books/</string>
+    <string name="search_error_message">An error occurred while searching</string>
+    <string name="try_again">Try again</string>
+    <string name="search_books">Search books</string>
+    <string name="no_description">No description</string>
+    <string name="no_items">No items</string>
+    <string name="activity_favorites_title">My favorites</string>
+    <string name="preview_link_text">Get preview</string>
+</resources>

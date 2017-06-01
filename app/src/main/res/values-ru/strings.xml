@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Google Книги</string>
+    <string name="search_error_message">Произошла ошибка во время поиска</string>
+    <string name="try_again">Повторить</string>
+    <string name="search_books">Поиск книг</string>
+    <string name="no_description">Описание отсутствует</string>
+    <string name="no_items">Нет элементов</string>
+    <string name="activity_favorites_title">Избранное</string>
+    <string name="preview_link_text">Ознакомительный фрагмент</string>
+</resources>
